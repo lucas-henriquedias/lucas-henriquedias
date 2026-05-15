@@ -66,7 +66,7 @@ Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<
 <h3>💻 Hard Skills</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,sqlite" /><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,linux,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,linux,vscode,pycharm" />
 </div>
 
 <hr>
