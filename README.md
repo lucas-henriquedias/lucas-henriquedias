@@ -9,7 +9,7 @@
 
 <h3>🧑‍💻 Sobre Mim</h3>
 <p>
-Tenho 19 anos e sou estudante de <strong>Ciências da Computação</strong> (4º período), 
+Tenho 20 anos e sou estudante de <strong>Ciências da Computação</strong> (4º período), 
 com formação técnica em <strong>Desenvolvimento de Sistemas</strong>.
 
 Atualmente, estou focado em me tornar um desenvolvedor <strong>Back-End</strong>, 
